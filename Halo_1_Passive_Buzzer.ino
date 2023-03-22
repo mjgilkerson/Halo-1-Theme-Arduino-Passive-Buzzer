@@ -1,9 +1,10 @@
 /* 
-  The legend of Zelda theme 
+  Code originally for The legend of Zelda theme 
   Connect a piezo buzzer or speaker to pin 11 or select a new pin.
   More songs available at https://github.com/robsoncouto/arduino-songs                                            
                                               
-                                              Robson Couto, 2019
+                                             Original code by Robson Couto, 2019 
+                                             Halo 1 Theme code by Michael Gilkerson, 2023
 */
 
 #include "pitches.h"
